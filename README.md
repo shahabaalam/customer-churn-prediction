@@ -101,4 +101,8 @@ If you'd like to contribute to this project:
 
 ## License
 This project is licensed under the MIT License.
+
+## References:
+1. **Customer Churn Dataset**: [Telco Customer Churn Dataset on Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+2. **Helpful Notebook**: [Customer Churn Prediction Notebook](https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction/noteboo)
 ```
