@@ -45,11 +45,6 @@ Follow these steps to set up and run the project locally:
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-4. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Technologies Used
 - **Python**: Programming language used for data analysis and model development
 - **Pandas**: Data manipulation and analysis
